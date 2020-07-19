@@ -94,9 +94,7 @@ let sketch = function(p) {
   }
 
   p.preload = function() {
-    font = p.loadFont(
-      "/assets/Raleway-Black.ttf"
-    );
+    font = p.loadFont("/assets/fonts/Raleway-Black.ttf")
   }
 
   p.setup = function() {
