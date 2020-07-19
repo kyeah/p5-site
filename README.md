@@ -3,12 +3,12 @@ p5-site
 
 Reference for how to deploy P5 sketches on your own website in various formats 👋
 
-|Name|Description
-|===|===|===|
-|sketch-global|Embed a single sketch into a webpage.|
-|sketch-instance-mode|Embed multiple sketches into a webpage.|
-|p5-embed|Easily embed one or more sketches. Uses iframes (loads as a separate webpage; may not work in all browsers/scenarios due to security issues.)|
-|glitch-embed|Embed one or more sketches, supports running a full web server. Live code editor on your website. Uses iframes (loads as a separate webpage; may not work in all browsers/scenarios due to security issues.)|
+|Name|Description|Notes|
+|---|---|---|
+|[sketch-global](https://kyeah.github.io/p5-site/sketch.html)|Embed a single sketch into a webpage.||
+|[sketch-instance-mode](https://kyeah.github.io/p5-site/sketch-instance-mode.html)|Embed multiple sketches into a webpage.||
+|[p5-embed](https://kyeah.github.io/p5-site/p5-embed.html)|Easily embed one or more sketches.|Uses iframes (loads as a separate webpage; may not work in all browsers/scenarios due to security issues.)|
+|[glitch-embed](https://kyeah.github.io/p5-site/glitch-embed.html)|Embed one or more sketches, supports running a full web server. Live code editor on your website. Can deploy website directly on Glitch without running your own webserver or using Github.|Uses iframes (loads as a separate webpage; may not work in all browsers/scenarios due to security issues.)|
 
 Things to note:
 
