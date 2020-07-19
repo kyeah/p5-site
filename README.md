@@ -1,7 +1,14 @@
 p5-site
 =======
 
-Reference for how to deploy P5 sketches on your own website 👋
+Reference for how to deploy P5 sketches on your own website in various formats 👋
+
+|Name|Description
+|===|===|===|
+|sketch-global|Embed a single sketch into a webpage.|
+|sketch-instance-mode|Embed multiple sketches into a webpage.|
+|p5-embed|Easily embed one or more sketches. Uses iframes (loads as a separate webpage.)|
+|glitch-embed|Embed one or more sketches, supports running a full web server. Live code editor on your website. Uses iframes (loads as a separate webpage.)|
 
 Things to note:
 
