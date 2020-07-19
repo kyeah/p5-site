@@ -7,8 +7,8 @@ Reference for how to deploy P5 sketches on your own website in various formats ð
 |===|===|===|
 |sketch-global|Embed a single sketch into a webpage.|
 |sketch-instance-mode|Embed multiple sketches into a webpage.|
-|p5-embed|Easily embed one or more sketches. Uses iframes (loads as a separate webpage.)|
-|glitch-embed|Embed one or more sketches, supports running a full web server. Live code editor on your website. Uses iframes (loads as a separate webpage.)|
+|p5-embed|Easily embed one or more sketches. Uses iframes (loads as a separate webpage; may not work in all browsers/scenarios due to security issues.)|
+|glitch-embed|Embed one or more sketches, supports running a full web server. Live code editor on your website. Uses iframes (loads as a separate webpage; may not work in all browsers/scenarios due to security issues.)|
 
 Things to note:
 
