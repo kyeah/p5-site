@@ -95,7 +95,7 @@ let sketch = function(p) {
 
   p.preload = function() {
     font = p.loadFont(
-      "https://cdn.glitch.com/e937305b-fdab-430a-aa8b-30cdaefc86d0%2FRaleway-Black.ttf?v=1595175609754"
+      "/assets/Raleway-Black.ttf"
     );
   }
 
